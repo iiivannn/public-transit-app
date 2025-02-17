@@ -1,0 +1,21 @@
+[debug] [2025-02-17T05:34:33.696Z] ----------------------------------------------------------------------
+[debug] [2025-02-17T05:34:33.698Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ivan\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-02-17T05:34:33.698Z] CLI Version:   13.31.1
+[debug] [2025-02-17T05:34:33.699Z] Platform:      win32
+[debug] [2025-02-17T05:34:33.699Z] Node Version:  v18.20.4
+[debug] [2025-02-17T05:34:33.699Z] Time:          Mon Feb 17 2025 13:34:33 GMT+0800 (Philippine Standard Time)
+[debug] [2025-02-17T05:34:33.700Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-02-17T05:34:33.706Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-02-17T05:34:33.707Z] > authorizing via signed-in user (oraionstarr@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ivan\Documents\cpe41 2nd sem\software dev\public-transit-app
+
