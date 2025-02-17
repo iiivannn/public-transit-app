@@ -3,6 +3,8 @@
 
 name: Deploy to Firebase Hosting on PR
 on: pull_request
+env:
+  REACT_APP_FIREBASE_API: ${{ secrets.REACT_APP_FIREBASE_API }}
 permissions:
   checks: write
   contents: read
